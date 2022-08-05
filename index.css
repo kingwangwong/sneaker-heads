@@ -25,3 +25,13 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+h1 {
+    background-image: linear-gradient(180deg, rgb(116, 201, 241), rgb(251, 64, 64) );
+}
+body {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-running-shoes-lead-1576249557.jpg?crop=0.965xw:0.858xh;0.0353xw,0&resize=1200:*");
+}
+
+#row2-section2 {
+    background-color: red;
+}
